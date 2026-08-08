@@ -1,0 +1,283 @@
+# autofleet.io
+
+> The leading optimization platform for fleets and mobility operators
+**Website:** https://autofleet.io  
+**Contact:** hey@autofleet.io  
+**Certifications:** ISO 27001, GDPR Compliant, HIPAA Compliant
+
+## Home
+
+[The leading optimization platform for fleets and mobility operators](https://autofleet.io): The end-to-end software platform for optimized, reliable and sustainable transportation services for fleets and mobility operators
+
+## Blog
+
+[4-Step Playbook to Fleet Technology Implementation](https://autofleet.io/blog/4-step-playbook-to-fleet-technology-implementation): Autofleet's technology implementation playbook for scaling and improving vehicle-based operational KPIs like cost per task, utilization, NPS, uptime, and more.
+[4 Ways to Improve Motor Pool Vehicle Reservation](https://autofleet.io/blog/4-ways-to-improve-motor-pool-vehicle-reservation): Improve motor pool management with digital vehicle booking systems. 4 proven ways to optimize vehicle reservations, reduce costs & boost fleet efficiency
+[7 Strategies Leading NEMT & School Transport Providers Use to Improve Performance](https://autofleet.io/blog/7-strategies-leading-nemt-providers-use-to-improve-performance): Discover 7 proven strategies leading NEMT and school transport providers use to improve performance: route optimization, fleet utilization, customer experience, driver communication, and compliance management.
+[5 Core Capabilities to Look for When Choosing Field Service Routing Software](https://autofleet.io/blog/5-core-capabilities-to-look-for-when-choosing-field-service-routing-software): 5 must-have features in field service routing, including real-time optimization, skill- and equipment-aware routing, and more
+[AI for Fleets: Cut Delivery Costs and Scale Faster, The AI Capabilities Your Last Mile Fleet Can Have](https://autofleet.io/blog/ai-capabilities-your-last-mile-fleet-can-have): Discover AI for fleets solutions for route optimization and operations. Learn how logistics automation reduces delivery costs, improves routes & scales operations.
+[AI for Field Service Routing](https://autofleet.io/blog/ai-for-field-service-routing): Modern field service operations use AI for route optimization. Allowing them to adapt and re-optimize routes whenever circumstances change.
+[AI for Fleets: The industry’s guide for making AI work for your fleet](https://autofleet.io/blog/ai-for-fleets-the-industrys-guide-for-making-ai-work-for-your-fleet): A guide for fleet managers and professionals to the AI tools that are currently available for fleets and how to use them.
+[Why AB 5 should be the best thing to happen to ride-hailing since the smartphone](https://autofleet.io/blog/ab-5): Why AB 5 should be the best thing to happen to ride-hailing since the smartphone
+[How to charge an EV fleet](https://autofleet.io/blog/best-practice-guide-how-to-charge-an-ev-fleet): Learn best practices to charge EV fleets efficiently with fleet charging strategy and electric vehicle fleet charging solutions.
+[AI for Fleet Management: The AI Revolution in Fleet Management Optimization](https://autofleet.io/blog/ai-for-fleet-management-optimizing-fleet-operations): Fleet managers can benefit a lot from AI solutions for fleet management. This post will inform you how to reap these benefits
+[Best 8 Route Optimization Software for Fleet Operators](https://autofleet.io/blog/best-route-optimization-software-for-fleet-operations): Compare the 8 best route optimization software platforms: key strengths, ideal use cases, and how to choose the right solution.
+[AI for Fleets: How AI Maximizes Fleet Utilization for Rental and Car‑Sharing Operators](https://autofleet.io/blog/ai-for-fleets-how-ai-maximizes-fleet-utilization-for-rental-and-car-sharing-operators): AI can solve rental and car-sharing fleets' challenges by reducing downtime and lowering costs while increasing utilization.
+[Beyond Electrification: How to Achieve True Fleet Sustainability](https://autofleet.io/blog/beyond-electrification-how-to-achieve-true-fleet-sustainability): Discover fleet sustainability, climate change solutions, and fleet efficiency strategies for greener fleets.
+[Customization Strategies for Streamlined Fleet Operations](https://autofleet.io/blog/customization-strategies-for-streamlined-fleet-operations): Customized fleet solutions, maintenance, tracking & telematics for streamlined, optimized fleet operations
+[Data to Value: The Power of Data-Driven Optimization](https://autofleet.io/blog/data-to-value-the-power-of-data-driven-optimization): Explore data insights, fleet management, NEMT, and electrification to optimize fleet operations with data-driven strategies.
+[Autofleet Automation Engine: Trigger and KPI-Based Fleet Workflows](https://autofleet.io/blog/autofleet-automation-engine): Automate fleet workflows with Autofleet using trigger and KPI-based rules to improve operations, response times, and ROI at scale
+[Five Ways to Optimize Fleet Management and Lower Your TCO](https://autofleet.io/blog/five-ways-to-optimize-fleet-management-and-lower-your-tco): Lower your fleet’s total cost of ownership with smarter utilization, route optimization, and predictive maintenance.
+[Dynamic Routing for Logistics Fleets: From Static Planning to Real-time Reoptimization](https://autofleet.io/blog/dynamic-routing-logistics-fleets): See how dynamic routing helps logistics fleets replace static planning with real-time reoptimization for faster, smarter delivery.
+[Fleet and Mobility Trends 2026: What's Next](https://autofleet.io/blog/fleet-and-mobility-trends-2026-whats-next): Explore the top fleet and mobility trends for 2026, including AI-driven operations, autonomous vehicles, EV adoption, multimodal logistics and telematics integrations shaping the future.
+[Fleet Automation in Practice: Use Cases & Results](https://autofleet.io/blog/fleet-automation-in-practice): See fleet automation in action with real-world use cases and results that improve efficiency, cut costs, and streamline operations.
+[Fleet and Mobility Services - What to Expect in 2025](https://autofleet.io/blog/fleet-and-mobility-services-what-to-expect-in-2025): Explore 2025 fleet optimization strategies, connected fleet analytics, and mobility as a service trends. Learn what's ahead for your fleet operations.
+[Fleet Software on Your Terms: Build, Buy, or Both?](https://autofleet.io/blog/fleet-software-on-your-terms-build-buy-or-both): Expert guide to fleet management software decisions: build vs buy analysis. Compare costs, benefits & risks of fleet management solutions for your business.
+[How to Achieve Fully Autonomous Fleets with Human Drivers](https://autofleet.io/blog/fully-autonomous-fleets-with-human-drivers): How to Achieve Fully Autonomous Fleets with Human Drivers
+[EV routing for last-mile delivery operations](https://autofleet.io/blog/ev-routing-for-last-mile-delivery-operations): Electric vehicle routing requires more than distance and time. See how EV route planning accounts for battery state, charger networks, weather, and more
+[We work hard so you don’t have to: How to onboard new technology to your fleet](https://autofleet.io/blog/introducing-new-tech-to-your-fleet-operation): Launch and incorporate new technology with confidence. Smooth fleet operations and support services.
+[How to Manage Autonomous Vehicle Fleet Operations](https://autofleet.io/blog/how-to-manage-autonomous-vehicle-fleet-operations): Learn how unified data, automated workflows, and central control centers power reliable, scalable autonomous fleet operations.
+[Fleet Electrification in 2025: Practical Strategies to Cut Costs and Boost Sustainability](https://autofleet.io/blog/fleet-electrification-practical-strategies-cutting-costs-boosting-sustainability): Electric fleets are still the most cost-effective and sustainable choice. But they need route planning, the right charging mix, and optimization.
+[Maximizing Fleet Potential with Utilization KPIs](https://autofleet.io/blog/maximizing-fleet-potential-with-utilization-kpis): Discover how fleet utilization KPIs can reduce costs, minimize downtime, and boost efficiency. Get actionable insights and real-world case studies.
+[Navigating the Electric Fleet Transition](https://autofleet.io/blog/navigating-the-electric-fleet-transition): Explore electric vehicle fleet transition, total cost of ownership, fleet operations, electric vehicle adoption, and electric fleet management to optimize your EV strategy.
+[Multimodal Routing for last mile operators: Why, how, and what to look for?](https://autofleet.io/blog/multimodal-routing-last-mile-operators): Postal and last-mile delivery operators use multiple modes, and multimodal routing creates more cost-effective daily route plans.
+[Mobility and Transportation in 2024 - What’s next?](https://autofleet.io/blog/mobility-and-transportation-in-2024-whats-next): Explore 2024 mobility trends including electric vehicle adoption, autonomous vehicle progress, taxi industry evolution, and the role of fleet optimization in transforming transportation.
+[Optimizing Fleet Operations: Reducing Downtime and Maximizing Efficiency](https://autofleet.io/blog/optimizing-fleet-operations-reducing-downtime-and-maximizing-efficiency): Expert fleet management strategies to reduce vehicle downtime & boost fleet efficiency. Proven fleet maintenance solutions for maximizing productivity & ROI.
+[How Delivery Route Optimization Handles Disruptions and Keeps Your SLAs Intact](https://autofleet.io/blog/how-delivery-route-optimization-handles-disruptions): Delivery route optimization helps fleets adapt to disruptions with real-time routing, automated re-optimization, and SLA protection.
+[I’ll teach you the path to profitable electric mobility (Boogie-woogie-woogie)](https://autofleet.io/blog/path-to-profitable-electric): (Boogie-woogie-woogie)
+[Postal Services Secret Sauce: 4 Strategies for Postal Delivery Success](https://autofleet.io/blog/postal-services-secret-sauce-4-strategies-to-postal-last-mile-delivery-success): Four ways postal services can optimize their operations, become more competitive, and leverage their innate advantages using advanced routing for postal providers, large scale fleet management solutions and more
+[Press Release: Autofleet launches self-serve Simulator](https://autofleet.io/blog/press-release-autofleet-launches-self-serve-simulator): Autofleet launches first self-serve electrification simulator to accurately plan the transition to electric vehicles for fleets and charging point operators Enables users to quickly, easily and accurately plan all aspects of the deployment and the operation of Electric Vehicles (EVs) and Charging Infrastructure
+[Revel and Autofleet partner on All-Electric, All-Employee NYC Rideshare Service](https://autofleet.io/blog/revel-and-autofleet): Revel and Autofleet partner on All-Electric, All-Employee NYC Rideshare Service
+[Santa’s Electric Sleigh Fleet](https://autofleet.io/blog/santas-electric-sleigh-fleet): Santa wants to cut down on his carbon emissions by replacing his reindeers with EVs. We help Santa plan the optimal transition using our Fleet Planning Simulator, and see if it's possible for him to go green, and still deliver gifts on time with minimum charging time.
+[Scaling Successfully with NEMT or Patient Transport Services](https://autofleet.io/blog/scaling-successfully-with-nemt-or-patient-transport-services): Taxi, TLC and private hire companies growth with NEMT has a unique set of challenges that we tackle, step by step, in this blog.
+[One Fleet Dashboard to Rule Them All: Solving Data Fragmentation in Fleet Telematics](https://autofleet.io/blog/solving-data-fragmentation-in-fleet-telematics): Unify fragmented data to drive operational excellence, eliminate the "swivel-chair effect" and transform how you use fleet data
+[Unlocking Fleet Potential: How Autofleet Transforms Telematics Data to Operational Excellence](https://autofleet.io/blog/streamlining-fleet-operations-with-telematics-data): Integrate telematics data from multiple fleet providers with Autofleet's platform. Normalize vehicle status, make, and fuel data for optimized operations. Start today.
+[The Future of Fleet Management: Element Acquires Autofleet](https://autofleet.io/blog/the-future-of-fleet-management-element-acquires-autofleet): Together the two companies will fast-track innovation in the fleet management industry and continue to deliver best-in-class solutions. Autofleet will continue to operate independently
+[The magic (and math) behind route optimization software](https://autofleet.io/blog/the-magic-and-math-behind-route-optimization-software): How to overcome the complexity of adaptive planning and routing for efficiency and sustainability mobility automated and in real time
+[The Operational Foundations for Successful Autonomous Vehicle Fleet Deployment](https://autofleet.io/blog/the-operational-foundations-for-successful-autonomous-vehicle-fleet-deployment): Learn how to operate an autonomous vehicle fleet. Explore AV fleet management, ODD constraints, depot workflows, compliance, and scaling.
+[The Taxi Industry — Have We Come Full Circle?](https://autofleet.io/blog/the-taxi-industry-have-we-come-full-circle): The emerging opportunities for Taxi companies amid the changing landscape
+[Top 10 fleet automations in Autofleet](https://autofleet.io/blog/top-10-fleet-automations-in-autofleet): Discover top 10 fleet management automation solutions. Optimize fleet operations with proven workflow automations from 20+ countries and multiple verticals.
+[The new Autofleet.io is live! What led us to upgrade our website?](https://autofleet.io/blog/the-new-autofleet-io-is-live-what-led-us-to-upgrade-our-website): Autofleet launched a new website. A look behind the scenes into the thought that went into it - the solutions, new features, use cases and resources we wanted to highlight.
+[Top 5 Software Solutions for Postal Delivery](https://autofleet.io/blog/top-software-solutions-for-postal-delivery): Compare the top 5 software solutions for postal delivery optimization and learn how to improve route efficiency, and handle growing parcel volumes.
+[The Optimizers Awards: Recognizing Excellence in Fleet Operations](https://autofleet.io/blog/the-optimizers-awards-2026-recognizing-excellence-in-fleet-operations-optimization): Celebrate innovation in fleet and mobility operations. Nominate for The Optimizers Awards and showcase your impact in optimization and AI.
+[What is Fleet Management Optimization? How to Cut Costs and Improve Efficiency](https://autofleet.io/blog/what-is-fleet-management-optimization-how-to-cut-costs-and-improve-efficiency): Understand how fleet management optimization uses AI to improve utilization, cut costs, and improve results across all fleet operations.
+[What is Real-time Dispatching?](https://autofleet.io/blog/what-is-real-time-taxi-dispatching): Real-time dispatch software automate and optimize the taxi dispatching process matching ride requests, drivers, and optimized routes.
+[10 Top Dispatch Management Software for Fleet Operations](https://autofleet.io/blog/top-dispatch-management-software-for-fleet-operations): Compare 10 top dispatch management software platforms for fleet operations, covering core capabilities, real-time control, and how to choose the right fit.
+[Visibility matters: 3 Tips for Effective Fleet Governance](https://autofleet.io/blog/visibility-matters-3-tips-for-effective-fleet-governance): Discover 3 proven tips to unify data, automate action, and optimize fleet governance for smarter, more profitable operations.
+[Autofleet’s Path to Worldwide Sustainable Mobility](https://autofleet.io/blog/worldwide-sustainable-mobility): Autofleet’s Path to Worldwide Sustainable Mobility
+[Public service orgs, keep essential services running during the Covid-19 crisis at no cost](https://autofleet.io/blog/public-service-orgs): Public service orgs, keep essential services running during the Covid-19 crisis at no cost
+[Rideshare Drivers: Does it pay to be picky?](https://autofleet.io/blog/does-it-pay-to-be-picky): Rideshare Drivers: Does it pay to be picky?
+
+## About
+
+[Leading Fleet Management Company & Solutions Provider | Autofleet](https://autofleet.io/about): Leading fleet management company providing advanced fleet optimization solutions. Learn about our fleet technology platform, industry expertise & innovative approach.
+
+## Careers
+
+[Autofleet | Careers](https://autofleet.io/careers): Build the future of mobility with us
+
+## Resources
+
+[Fleet Optimization Resources | Autofleet](https://autofleet.io/resources): Discover how fleet optimization boosts performance for delivery, rental, car sharing, and other mobility services.
+
+## Privacy policy
+
+[Privacy policy](https://autofleet.io/privacy-policy): 
+
+## Rental car sharing
+
+[Autofleet | Rental & Car Sharing](https://autofleet.io/rental-car-sharing): Automate and optimize rental and car sharing operations. Eliminate downtime and improve the fleet's ROI
+
+## Taxi operations
+
+[Taxi & Rideshare Optimization Platform: AI-Powered Fleet Management](https://autofleet.io/taxi-operations): Autofleet's AI-powered optimization platform for taxi and rideshare operations increases completion rates, reduces wait times, and maximizes fleet utilization through advanced dispatching algorithms.
+
+## Fleet planning simulator
+
+[Autofleet | Fleet Planning Simulator](https://autofleet.io/fleet-planning-simulator): Get accurate, actionable insights into operational and financial KPIs.
+
+## Contact us
+
+[Autofleet | Contact Us](https://autofleet.io/contact-us): Contact us to learn how sustainable, efficient mobility can begin today.
+
+## Fleet management solutions
+
+[Fleet Management Solutions | Autofleet](https://autofleet.io/fleet-management-solutions): The Fleet Management Optimization Platform for automated, reliable, and sustainable transportation services
+
+## Fleet electrification sustainability
+
+[Autofleet | Fleet Electrification](https://autofleet.io/fleet-electrification-sustainability): Seamlessly electrify your fleet operations and maximize efficiency
+
+## Field service routing
+
+[AI Field Service Routing and Optimization Platform](https://autofleet.io/field-service-routing): Optimize field service routing operations with our AI-powered platform. Reduce travel time, boost efficiency, and deliver exceptional service. Start optimizing today.
+
+## Success
+
+[Success](https://autofleet.io/success): 
+
+## Autonomous mobility
+
+[Autonomous Vehicle Management & Fleet Software | Autofleet](https://autofleet.io/autonomous-mobility): Advanced autonomous vehicle management software for mixed fleets. Seamlessly integrate self-driving cars with traditional vehicles. Optimize autonomous fleet operations & safety.
+
+## Media news
+
+[Autofleet News & Media: Press Releases, Industry Awards & Fleet Management Insights](https://autofleet.io/media-news): Stay updated with Autofleet's latest news, press releases, industry awards, and fleet management insights. Read about partnerships, AI innovations, and recognition in the mobility sector.
+
+## Terms and conditions
+
+[Terms and Conditions](https://autofleet.io/terms-and-conditions): 
+
+## Open source attribution
+
+[Open Source Attribution](https://autofleet.io/open-source-attribution): 
+
+## Integration
+
+[Autofleet | Fleet Planning Simulator](https://autofleet.io/integration): Get accurate, actionable insights into operational and financial KPIs.
+
+## Delivery and logistics operations
+
+[Delivery and Logistics Operations | Autofleet](https://autofleet.io/delivery-and-logistics-operations): Fleet management software with logistics automation for optimized delivery operations. Reduce costs, improve efficiency & scale your fleet.
+
+## Motor pool management and corporate car sharing
+
+[Motor Pool Management and Corporate Fleet Operations Software](https://autofleet.io/motor-pool-management-and-corporate-car-sharing): Advanced motor pool management software for corporate fleet operations. Streamline vehicle booking, sharing & tracking. Optimize corporate car sharing ROI.
+
+## Postal operations
+
+[Postal Operations Route Optimization & Fleet Management](https://autofleet.io/postal-operations): Advanced postal delivery operations route optimization software. Optimize parcel delivery,  mail routes and fleet management to boost your efficiency.
+
+## Last mile delivery routing and scheduling
+
+[Last Mile Delivery Route Optimization Software | Autofleet](https://autofleet.io/last-mile-delivery-routing-and-scheduling): Last-mile delivery routing for real-world complexity. Optimize routes, automate dispatch, and adapt in real time with Autofleet.
+
+## Events
+
+[Events](https://autofleet.io/events): Discover Autofleet's latest events including conferences, exhibitions, and community activities. Stay updated on fleet management industry happenings.
+
+## Route optimization dispatch
+
+[Route Optimization & Dispatch Software | Autofleet](https://autofleet.io/route-optimization-dispatch): Route optimization and dispatch software for passenger transport. Automate dispatch, guarantee control and accurate ETAs. Scale on-demand and planned rides
+
+## Resource
+
+[7 Strategies Leading NEMT & School Transport Providers Use to Improve Performance](https://autofleet.io/resource/7-strategies-leading-nemt-providers-use-to-improve-performance): Discover 7 proven strategies leading NEMT and school transport providers use to improve performance: route optimization, fleet utilization, customer experience, driver communication, and compliance management.
+[AI for Fleets: The industry’s guide for making AI work for your fleet](https://autofleet.io/resource/ai-for-fleets-the-industrys-guide-for-making-ai-work-for-your-fleet): A guide for fleet managers and professionals to the AI tools that are currently available for fleets and how to use them.
+[4 Ways to Improve Motor Pool Vehicle Reservation](https://autofleet.io/resource/4-ways-to-improve-motor-pool-vehicle-reservation): Improve motor pool management with digital vehicle booking systems. 4 proven ways to optimize vehicle reservations, reduce costs & boost fleet efficiency
+[4-Step Playbook to Fleet Technology Implementation](https://autofleet.io/resource/4-step-playbook-to-fleet-technology-implementation): Autofleet's technology implementation playbook for scaling and improving vehicle-based operational KPIs like cost per task, utilization, NPS, uptime, and more.
+[5 Core Capabilities to Look for When Choosing Field Service Routing Software](https://autofleet.io/resource/5-core-capabilities-to-look-for-when-choosing-field-service-routing-software): 5 must-have features in field service routing, including real-time optimization, skill- and equipment-aware routing, and more
+[Autofleet’s White Label Passenger App - Built to Be Your Own](https://autofleet.io/resource/autofleets-white-label-passenger-app-built-to-be-your-own): Ride-hailing apps (AKA uber clone apps, passenger apps and taxi apps) are the first point of contact with passengers. Read on to understand how to make yours great.
+[Autofleet Nova Named “AutoTech AI Innovation Of The Year” By AutoTech Breakthrough](https://autofleet.io/resource/autofleet-nova-named-autotech-ai-innovation-of-the-year-by-autotech-breakthrough): Autofleet Nova has been selected as the recipient of the “AutoTech AI Innovation of the Year” award, Autofleet Nova is the leading fleet-specific generative AI designed to unleash the power of natural language in fleet operations.
+[Autofleet Announces Nova – the First AI-Powered Large Language Model Specifically Designed for Fleet Management](https://autofleet.io/resource/autofleet-announces-nova-first-ai-powered-llm-designed-for-fleet-management): Autofleet announces Nova, the first AI-powered large language model specifically designed for fleet management, enabling operators to use natural language for comprehensive operational insights and data-driven decisions.
+[Autofleet to provide an end-to-end NEMT solution that solves three of the industry's most pressing problem with new Kinetik integration](https://autofleet.io/resource/autofleet-to-provide-an-end-to-end-nemt-solution-with-new-kinetik-integration): NEMT software that provides end-to-end visibility, control and optimization across each trip and for every stakeholder.
+[Customer Video Spotlight Featuring: Keolis Autonomous On-Demand Transportation](https://autofleet.io/resource/customer-spotlight-with-keolis-operating-autonomous-on-demand-transportation): Learn how Keolis uses Autofleet to manage autonomous vehicle fleets and optimize on-demand public transportation operations with real-time fleet management and passenger booking solutions.
+[The leading optimization platform for fleets and mobility operators](https://autofleet.io/resource/autofleet-partners-with-indrive-to-launch-a-new-global-fleet-management-platform): The end-to-end software platform for optimized, reliable and sustainable transportation services for fleets and mobility operators
+[How to charge an EV fleet](https://autofleet.io/resource/best-practice-guide-how-to-charge-an-ev-fleet): Learn best practices to charge EV fleets efficiently with fleet charging strategy and electric vehicle fleet charging solutions.
+[Customer Video Spotlight Featuring: Genii Transport Optimized Last-Mile Delivery](https://autofleet.io/resource/customer-video-spotlight-featuring-genii-transport-optimized-last-mile-delivery): Learn how Genii Transport CEO David Bigwood uses Autofleet to optimize last-mile delivery operations in London with improved routing, driver communication, and cost reduction.
+[Enabling Autonomous Transportation With Keolis](https://autofleet.io/resource/autonomous-public-transportation-with-keolis): Keolis and Autofleet's case study on enabling autonomous on-demand transportation. Including, data management, all AV manufactures fleet management, passenger satisfaction and advanced reporting.
+[Customer Video Spotlight Featuring: Zipcar Carsharing](https://autofleet.io/resource/customer-video-spotlight-featuring-zipcar-carsharing): Learn how Zipcar UK uses Autofleet to optimize car sharing operations, reduce downtime, maximize fleet utilization, and streamline EV charging management with James Taylor, GM Zipcar UK.
+[Beyond Electrification: How to Achieve True Fleet Sustainability](https://autofleet.io/resource/beyond-electrification-how-to-achieve-true-fleet-sustainability): Discover fleet sustainability, climate change solutions, and fleet efficiency strategies for greener fleets.
+[Customization Strategies for Streamlined Fleet Operations](https://autofleet.io/resource/customization-strategies-for-streamlined-fleet-operations): Customized fleet solutions, maintenance, tracking & telematics for streamlined, optimized fleet operations
+[Data to Value: The Power of Data-Driven Optimization](https://autofleet.io/resource/data-to-value-the-power-of-data-driven-optimization): Explore data insights, fleet management, NEMT, and electrification to optimize fleet operations with data-driven strategies.
+[Element Last Mile Rental: Modernizing Vehicle Reservations and Fleet Operations with Autofleet](https://autofleet.io/resource/element-last-mile-rental-modernizing-vehicle-reservations-and-fleet-operations-with-autofleet): Element LMR modernized fleet operations with Autofleet's mobile-first platform, improving utilization, governance, and real-time fleet visibility.
+[Fleet and Mobility Trends 2026: What's Next](https://autofleet.io/resource/fleet-and-mobility-trends-2026-whats-next): Explore the top fleet and mobility trends for 2026, including AI-driven operations, autonomous vehicles, EV adoption, multimodal logistics and telematics integrations shaping the future.
+[Five Ways to Optimize Fleet Management and Lower Your TCO](https://autofleet.io/resource/five-ways-to-optimize-fleet-management-and-lower-your-tco): Lower your fleet’s total cost of ownership with smarter utilization, route optimization, and predictive maintenance.
+[The Fleet Utilization KPI Guide](https://autofleet.io/resource/fleet-utilization-kpi-guide): Download the Fleet Utilization Metrics Guide to reduce downtime, improve TCO, and optimize fleet utilization for better performance and efficiency.
+[Fleet Software on Your Terms: Build, Buy, or Both?](https://autofleet.io/resource/fleet-software-on-your-terms-build-buy-or-both): Expert guide to fleet management software decisions: build vs buy analysis. Compare costs, benefits & risks of fleet management solutions for your business.
+[Fleet Electrification: The Practical Guide](https://autofleet.io/resource/fleet-electrification-guide): Get the complete fleet electrification guide covering EV management, charging strategy, costs & TCO analysis. Learn how to electrify your fleet effectively.
+[How to Achieve Fully Autonomous Fleets with Human Drivers](https://autofleet.io/resource/fully-autonomous-fleets-with-human-drivers): How to Achieve Fully Autonomous Fleets with Human Drivers
+[Geomob Podcast - “As demand grows, so do customers expectations”](https://autofleet.io/resource/geomob-podcast): Geomob Podcast - 139. Adam Simkin: Estimating ETAs / autofleet.io
+[How to Manage Autonomous Vehicle Fleet Operations](https://autofleet.io/resource/how-to-manage-autonomous-vehicle-fleet-operations): Learn how unified data, automated workflows, and central control centers power reliable, scalable autonomous fleet operations.
+[Maximizing Fleet Potential with Utilization KPIs](https://autofleet.io/resource/maximizing-fleet-potential-with-utilization-kpis): Discover how fleet utilization KPIs can reduce costs, minimize downtime, and boost efficiency. Get actionable insights and real-world case studies.
+[Mobility and Transportation in 2024 - What’s next?](https://autofleet.io/resource/mobility-and-transportation-in-2024-whats-next): Explore 2024 mobility trends including electric vehicle adoption, autonomous vehicle progress, taxi industry evolution, and the role of fleet optimization in transforming transportation.
+[We work hard so you don’t have to: How to onboard new technology to your fleet](https://autofleet.io/resource/introducing-new-tech-to-your-fleet-operation): Launch and incorporate new technology with confidence. Smooth fleet operations and support services.
+[Navigating the Electric Fleet Transition](https://autofleet.io/resource/navigating-the-electric-fleet-transition): Explore electric vehicle fleet transition, total cost of ownership, fleet operations, electric vehicle adoption, and electric fleet management to optimize your EV strategy.
+[Personalized Ride Board & Route Optimization Software for Future Rides](https://autofleet.io/resource/personalized-ride-board-new-way-to-allocate-future-rides): Discover optimized dispatching with personalized ride board and route optimization software for efficient future ride allocation and ride planning.
+[Optimizing Fleet Operations: Reducing Downtime and Maximizing Efficiency](https://autofleet.io/resource/optimizing-fleet-operations-reducing-downtime-and-maximizing-efficiency): Expert fleet management strategies to reduce vehicle downtime & boost fleet efficiency. Proven fleet maintenance solutions for maximizing productivity & ROI.
+[I’ll teach you the path to profitable electric mobility (Boogie-woogie-woogie)](https://autofleet.io/resource/path-to-profitable-electric): (Boogie-woogie-woogie)
+[Postal Services Secret Sauce: 4 Strategies for Postal Delivery Success](https://autofleet.io/resource/postal-services-secret-sauce-4-strategies-to-postal-last-mile-delivery-success): Four ways postal services can optimize their operations, become more competitive, and leverage their innate advantages using advanced routing for postal providers, large scale fleet management solutions and more
+[Petrol Patrol: How Autofleet Helped Zipcar Overcome the UK National Fuel Crisis](https://autofleet.io/resource/petrol-patrol): 
+[Reducing fleet downtime: Digital tools and strategies](https://autofleet.io/resource/reducing-fleet-downtime-digital-tools-and-strategies): Learn from industry leaders Angelo Adams, President, Zipcar, Steven Jastrow, VP Strategic Advisory Services, Element Fleet Management, and Nicole Valenzuela, Sr. Director Enterprise Solutions, Autofleet as they share digital strategies for lowering downtime and maximizing vehicle availability.
+[Press Release: Autofleet launches self-serve Simulator](https://autofleet.io/resource/press-release-autofleet-launches-self-serve-simulator): Autofleet launches first self-serve electrification simulator to accurately plan the transition to electric vehicles for fleets and charging point operators Enables users to quickly, easily and accurately plan all aspects of the deployment and the operation of Electric Vehicles (EVs) and Charging Infrastructure
+[Powering VGM’s Growth with Fleet Optimization](https://autofleet.io/resource/powering-vgms-growth-with-fleet-optimization): The secret to VGM growth by consistently provides reliable and sustainable NEMT services that exceed the terms of its SLA
+[Revel and Autofleet partner on All-Electric, All-Employee NYC Rideshare Service](https://autofleet.io/resource/revel-and-autofleet): Revel and Autofleet partner on All-Electric, All-Employee NYC Rideshare Service
+[Santa’s Electric Sleigh Fleet](https://autofleet.io/resource/santas-electric-sleigh-fleet): Santa wants to cut down on his carbon emissions by replacing his reindeers with EVs. We help Santa plan the optimal transition using our Fleet Planning Simulator, and see if it's possible for him to go green, and still deliver gifts on time with minimum charging time.
+[Scaling Successfully with NEMT or Patient Transport Services](https://autofleet.io/resource/scaling-successfully-with-nemt-or-patient-transport-services): Taxi, TLC and private hire companies growth with NEMT has a unique set of challenges that we tackle, step by step, in this blog.
+[State of Autonomous Vehicles: 2025’s AV Push Toward a Driverless Future](https://autofleet.io/resource/state-of-autonomous-vehicles-2025s-av-push-toward-a-driverless-future): Your 2025 AV technology resource. Learn about autonomous vehicles, robotaxis growth, and driverless future trends transforming mobility. Discover more.
+[One Fleet Dashboard to Rule Them All: Solving Data Fragmentation in Fleet Telematics](https://autofleet.io/resource/solving-data-fragmentation-in-fleet-telematics): Unify fragmented data to drive operational excellence, eliminate the "swivel-chair effect" and transform how you use fleet data
+[Unlocking Fleet Potential: How Autofleet Transforms Telematics Data to Operational Excellence](https://autofleet.io/resource/streamlining-fleet-operations-with-telematics-data): Integrate telematics data from multiple fleet providers with Autofleet's platform. Normalize vehicle status, make, and fuel data for optimized operations. Start today.
+[Anything that Moves Podcast: The Fleetification of Future Mobility](https://autofleet.io/resource/the-fleetification-of-future-mobility): Meir and Kobi Eisenberg, CEO @ Autofleet begin this episode with the most basic question: what is a fleet? Hint: It may have to do with warships. They then breakdown the economics of car sharing, management of EV fleets, and discuss whether or not car sharing is broken.
+[The magic (and math) behind route optimization software](https://autofleet.io/resource/the-magic-and-math-behind-route-optimization-software): How to overcome the complexity of adaptive planning and routing for efficiency and sustainability mobility automated and in real time
+[What is Fleet Management Optimization? How to Cut Costs and Improve Efficiency](https://autofleet.io/resource/what-is-fleet-management-optimization-how-to-cut-costs-and-improve-efficiency): Understand how fleet management optimization uses AI to improve utilization, cut costs, and improve results across all fleet operations.
+[The Taxi Industry — Have We Come Full Circle?](https://autofleet.io/resource/the-taxi-industry-have-we-come-full-circle): The emerging opportunities for Taxi companies amid the changing landscape
+[Top 10 fleet automations in Autofleet](https://autofleet.io/resource/top-10-fleet-automations-in-autofleet): Discover top 10 fleet management automation solutions. Optimize fleet operations with proven workflow automations from 20+ countries and multiple verticals.
+[zTrip and Autofleet partner to optimize and streamline NEMT and student transportation services](https://autofleet.io/resource/ztrip-and-autofleet-partner-to-optimize-and-streamline-nemt-and-student-transportation-services): Leveraging Autofleet’s optimization platform, zTtrip improves on-time performance, optimize fleet efficiency and automate routing. Autofleet’s advanced solution automatically plans, dispatches and routes rides while continually optimizing operations based on live conditions to ensure high performance.
+[What is Real-time Dispatching?](https://autofleet.io/resource/what-is-real-time-taxi-dispatching): Real-time dispatch software automate and optimize the taxi dispatching process matching ride requests, drivers, and optimized routes.
+[Autofleet Web Booker: Book Taxi & Rideshare Trips from Any Device](https://autofleet.io/resource/passenger-taxi-ridehailing-web-booker): Autofleet's upgraded Web Booker enables passengers and organizations to book taxi and rideshare trips from any device with advanced features, real-time tracking, and seamless payment options.
+[Rideshare Drivers: Does it pay to be picky?](https://autofleet.io/resource/does-it-pay-to-be-picky): Rideshare Drivers: Does it pay to be picky?
+
+## Get a demo
+
+[The Last Mile Delivery Management Software](https://autofleet.io/get-a-demo/main): 
+
+## Microtransit
+
+[Autofleet | Microtransit](https://autofleet.io/microtransit): Operate successful on demand ride operations. Support Demand Responsive Transportation (DRT) for any vehicle and fleet size.
+
+## Press release
+
+[Autofleet Announces Nova – the First AI-Powered Large Language Model Specifically Designed for Fleet Management](https://autofleet.io/press-release/autofleet-announces-nova-first-ai-powered-llm-designed-for-fleet-management): Autofleet announces Nova, the first AI-powered large language model specifically designed for fleet management, enabling operators to use natural language for comprehensive operational insights and data-driven decisions.
+[Autofleet Nova Named “AutoTech AI Innovation Of The Year” By AutoTech Breakthrough](https://autofleet.io/press-release/autofleet-nova-named-autotech-ai-innovation-of-the-year-by-autotech-breakthrough): Autofleet Nova has been selected as the recipient of the “AutoTech AI Innovation of the Year” award, Autofleet Nova is the leading fleet-specific generative AI designed to unleash the power of natural language in fleet operations.
+[Autofleet Named “Fleet Management Solution of the Year” By AutoTech Breakthrough Annual Awards Program](https://autofleet.io/press-release/autofleet-named-fleet-management-solution-of-the-year-by-autotech-breakthrough-annual-awards-program): Autofleet has been selected as the winner of AutoTech’s “Fleet Management Solution of the Year” award.
+[Autofleet to provide an end-to-end NEMT solution that solves three of the industry's most pressing problem with new Kinetik integration](https://autofleet.io/press-release/autofleet-to-provide-an-end-to-end-nemt-solution-with-new-kinetik-integration): NEMT software that provides end-to-end visibility, control and optimization across each trip and for every stakeholder.
+[Autofleet Announces Definitive Agreement to be Acquired by Element Fleet Management](https://autofleet.io/press-release/autofleet-announces-definitive-agreement-to-be-acquired-by-element-fleet-management): Autofleet is being acquired by Element Fleet Management. Together the two companies will fast-track innovation in the fleet management industry.
+[zTrip and Autofleet partner to optimize and streamline NEMT and student transportation services](https://autofleet.io/press-release/ztrip-and-autofleet-partner-to-optimize-and-streamline-nemt-and-student-transportation-services): Leveraging Autofleet’s optimization platform, zTtrip improves on-time performance, optimize fleet efficiency and automate routing. Autofleet’s advanced solution automatically plans, dispatches and routes rides while continually optimizing operations based on live conditions to ensure high performance.
+[Curb Launches Curb Optima, an Advanced Tech Solution Maximizing Fleet Utility and Driver Earnings Powered by Autofleet](https://autofleet.io/press-release/curb-partners-with-autofleet): Powered by Autofleet, Curb the leading taxi solutions and ride-hailing app for licensed taxis and for-hire rides announced the launch of Curb Optima, designed to empower fleets by optimizing routes and increase mileage efficiency.
+[STRIDES Premier, a majority owned subsidiary of SMRT Corporation, and Autofleet partner to optimize and streamline limousine operations in Singapore](https://autofleet.io/press-release/strides-premier-announcement): Leveraging Autofleet’s optimization platform, STRIDES Premier improves on-time performance, optimizes fleet efficiency, automates routing, and provides a more streamlined experience for both passengers and drivers.
+[Autofleet wins the Gold Merit Award for ‘Fleet Management Innovation of the Year’](https://autofleet.io/press-release/autofleet-wins-the-gold-merit-award-for-fleet-management-innovation-of-the-year): Autofleet wins the 2024 Merit Awards Gold for Fleet Management Innovation, recognizing AI-powered optimization, real-time workflows, and GenAI solutions that transform fleet operations globally.
+
+## Case study
+
+[Enabling Autonomous Transportation With Keolis](https://autofleet.io/case-study/autonomous-public-transportation-with-keolis): Keolis and Autofleet's case study on enabling autonomous on-demand transportation. Including, data management, all AV manufactures fleet management, passenger satisfaction and advanced reporting.
+[Customer Video Spotlight Featuring: Keolis Autonomous On-Demand Transportation](https://autofleet.io/case-study/customer-spotlight-with-keolis-operating-autonomous-on-demand-transportation): Learn how Keolis uses Autofleet to manage autonomous vehicle fleets and optimize on-demand public transportation operations with real-time fleet management and passenger booking solutions.
+[Customer Video Spotlight Featuring: Genii Transport Optimized Last-Mile Delivery](https://autofleet.io/case-study/customer-video-spotlight-featuring-genii-transport-optimized-last-mile-delivery): Learn how Genii Transport CEO David Bigwood uses Autofleet to optimize last-mile delivery operations in London with improved routing, driver communication, and cost reduction.
+[Customer Video Spotlight Featuring: Zipcar Carsharing](https://autofleet.io/case-study/customer-video-spotlight-featuring-zipcar-carsharing): Learn how Zipcar UK uses Autofleet to optimize car sharing operations, reduce downtime, maximize fleet utilization, and streamline EV charging management with James Taylor, GM Zipcar UK.
+[Element Last Mile Rental: Modernizing Vehicle Reservations and Fleet Operations with Autofleet](https://autofleet.io/case-study/element-last-mile-rental-modernizing-vehicle-reservations-and-fleet-operations-with-autofleet): Element LMR modernized fleet operations with Autofleet's mobile-first platform, improving utilization, governance, and real-time fleet visibility.
+[Customization at Scale With Just Her Rideshare: A Case Study](https://autofleet.io/case-study/case-study-just-her-rideshare-customization-at-scale-with-autofleet): Learn how Autofleet's customization capabilities transform a client’s internal processes for more efficiency and scalability
+[Petrol Patrol: How Autofleet Helped Zipcar Overcome the UK National Fuel Crisis](https://autofleet.io/case-study/petrol-patrol): 
+[Powering VGM’s Growth with Fleet Optimization](https://autofleet.io/case-study/powering-vgms-growth-with-fleet-optimization): The secret to VGM growth by consistently provides reliable and sustainable NEMT services that exceed the terms of its SLA
+[Autofleet's Simulator to Improve the Impact of EV Charging on Carbon Emissions](https://autofleet.io/case-study/innovative-research-from-autofleet-and-fujitsu): Autofleet, the leading optimization platform for fleets and mobility operators, announced today that its simulation technology has been used to demonstrate digital collaboration with strategic partner Fujitsu
+
+## Eguides
+
+[Fleet Electrification: The Practical Guide](https://autofleet.io/eguides/fleet-electrification-guide): Get the complete fleet electrification guide covering EV management, charging strategy, costs & TCO analysis. Learn how to electrify your fleet effectively.
+[State of Autonomous Vehicles: 2025’s AV Push Toward a Driverless Future](https://autofleet.io/eguides/state-of-autonomous-vehicles-2025s-av-push-toward-a-driverless-future): Your 2025 AV technology resource. Learn about autonomous vehicles, robotaxis growth, and driverless future trends transforming mobility. Discover more.
+[The Passenger App Checklist](https://autofleet.io/eguides/passenger-app-checklist): Use this checklist to make sure your taxi passenger app is right for you, and to get the most out of any uber-clone mobile application.
+[The Fleet Utilization KPI Guide](https://autofleet.io/eguides/fleet-utilization-kpi-guide): Download the Fleet Utilization Metrics Guide to reduce downtime, improve TCO, and optimize fleet utilization for better performance and efficiency.
+[Fleet Management Glossary](https://autofleet.io/eguides/fleet-management-glossary): Use this glossary as a quick guide to fleet management. Here are all the terms you need to be familiar with if you want to call yourself a fleet professional.
+
+## Podcasts and webinars
+
+[Geomob Podcast - “As demand grows, so do customers expectations”](https://autofleet.io/podcasts-and-webinars/geomob-podcast): Geomob Podcast - 139. Adam Simkin: Estimating ETAs / autofleet.io
+[Reducing fleet downtime: Digital tools and strategies](https://autofleet.io/podcasts-and-webinars/reducing-fleet-downtime-digital-tools-and-strategies): Learn from industry leaders Angelo Adams, President, Zipcar, Steven Jastrow, VP Strategic Advisory Services, Element Fleet Management, and Nicole Valenzuela, Sr. Director Enterprise Solutions, Autofleet as they share digital strategies for lowering downtime and maximizing vehicle availability.
+[Anything that Moves Podcast: The Fleetification of Future Mobility](https://autofleet.io/podcasts-and-webinars/the-fleetification-of-future-mobility): Meir and Kobi Eisenberg, CEO @ Autofleet begin this episode with the most basic question: what is a fleet? Hint: It may have to do with warships. They then breakdown the economics of car sharing, management of EV fleets, and discuss whether or not car sharing is broken.
+[Elastic vehicle supply - Kobi Eisenberg on the Autonocast podcast](https://autofleet.io/podcasts-and-webinars/kobi-eisenberg-on-the-autonocast-podcast): Listen to Kobi Eisenberg, Autofleet's CEO, guest appearance on the Autonocast podcast. Kobi discusses the challenges facing on-demand mobility, and how Autofleet’s ability to plan, dispatch and redirect mobility resources is helping to make this industry viable.
+[How AI and Autonomy Are Redefining Fleet Operations in 2026](https://autofleet.io/podcasts-and-webinars/the-fleet-how-ai-and-autonomy-are-redefining-fleet-operations-in-2026): How AI and Autonomy Are Redefining Fleet Operations in 2026
+[Conversations in Cleantech: Scaling Fleet Electrification](https://autofleet.io/podcasts-and-webinars/conversations-in-cleantech-scaling-fleet-electrification): Kobi Eisenberg, Co-Founder & CEO of Autofleet, talks to Brightsmith vice president Ben Sparks and director Jenny Gladman on sustainable mobility and managing a start-up greet tech company
+
+## Author
+
+[Dor Shay | Autofleet](https://autofleet.io/author/dor-shay): Dor leads the vision and technical implementation of the Autofleet platform, driving its ongoing enhancements and expansions. His vast technical knowledge and leadership are pivotal to Autofleet's excellence and innovation. Dor is a seasoned entrepreneur and before co-founding Autofleet, founded a B2B start-up that is now profitable with over 100 customers. Dor has experience leading R&D teams across 4 companies.
+[Gali Kotzker | Autofleet](https://autofleet.io/author/gali-kotzker): Gali is an experienced leader in customer services for B2B SaaS. At Autofleet, Gali oversees Account Management, Support, and Solutions teams. In her previous role, Gali was Director of Professional Services at Zencity, where she led a global group of three teams. Gali is experienced and passionate about maximizing customer value through scalable, comprehensive delivery methods. Gali has a BA in PPE (Philosophy, Political Science & Economics) from the Hebrew University of Jerusalem.
+[Guy Sussman | Autofleet](https://autofleet.io/author/guy-sussman): Guy Sussman is an Enterprise Account Executive at Autofleet, an Element company, where he helps fleet and mobility operators unlock efficiency through smart technology solutions. He brings experience in full-cycle SaaS sales and team leadership, with a background spanning enterprise sales, ecommerce, and consulting. Guy is based in Israel and holds a BA in Environmental and Resource Economics from the University of Sydney.
+[Kobi Eisenberg | Autofleet](https://autofleet.io/author/kobi-eisenberg): Kobi Eisenberg is the President of Mobility and Autofleet at Element. He leads Element's technology roadmap and product suite to deliver best-in-class digital solutions for its clients. Kobi also oversees Autofleet, Element's subsidiary, driving its mission to provide a leading fleet optimization platform that enhances efficiency and innovation in the mobility sector. Kobi co-founded Autofleet, the leading optimization platform for fleets and mobility operators, that today serves clients in a wide variety of mobility verticals, in over 20 countries and across 5 continents. Before co-founding Autofleet, Kobi led product tech teams in other fast-growing startups as well as established corporations. Kobi holds a B.Sc. in Computer Science and an MBA from Ben-Gurion University.
+[Nicole Valenzuela | Autofleet](https://autofleet.io/author/nicole-valenzuela): Nicole Valenzuela is Senior Director of Sales at Autofleet, an Element company, where she drives fleet optimization solutions for enterprise and Fortune 500 clients. She brings extensive experience in transportation, software, and staffing sales, with a proven track record of exceeding targets, including 400% quota achievement at Lyft. Nicole is based in Chicago and is skilled in field sales, account management, contract negotiation, and new market development.
+[Seth Hochhauser | Autofleet](https://autofleet.io/author/seth-hochhauser): Seth is the Chief Revenue Officer at Autofleet, where he leads the company's sales efforts, corporate development, and strategic partnerships. Prior to joining Autofleet, Seth spent nearly a decade in venture capital and management consulting, advising organizations ranging from seed-stage startups to Fortune 500 companies on topics such as M&A, post-merger integration, operations, and strategy. Seth holds a B.S. in Operations Research from Columbia University's School of Engineering.
+[Shai Adler | Autofleet](https://autofleet.io/author/shai-adler): Shai Adler is a Marketing Manager & Operations at Autofleet, an Element company, where he drives marketing initiatives, content strategy, and lead generation for fleet optimization and smart mobility solutions. He brings experience in marketing operations, digital marketing, and MarTech, with previous roles at CloudShare and Gravyty. Shai is based in Israel and holds a degree in IT Administration and Management from Bar-Ilan University.
+[Sima Megrel Shubzak | Autofleet](https://autofleet.io/author/sima-megrel-shubzak): As VP of Marketing at Autofleet, Sima leads the company's global marketing strategy, brand positioning, digital initiatives, and communications while orchestrating go-to-market plans to drive growth and establish market leadership. Sima is a seasoned global marketer specializing in B2B SaaS. Previously, she served as Marketing Director at Verifone, a multinational leader in payment solutions, and at LawGeex, an AI-powered legal tech provider. She holds a Master's degree in Law and a Bachelor's degree in Communication and Political Science from Bar-Ilan University.
+[Yael Brosh | Autofleet](https://autofleet.io/author/yael-brosh): Yael Brosh is a Senior Business Development Representative at Autofleet, an Element company, where she helps fleet and logistics leaders optimize operations and drive growth. She brings over a decade of go-to-market experience across B2B SaaS, autotech, and govtech, working with markets spanning North America, EMEA and APAC. Yael is known for building strategic relationships with stakeholders across transit, fleets, and mobility.
+[Ohad Ouziel | Autofleet](https://autofleet.io/author/ohad-ouziel): Ohad Ouziel leads content marketing at Autofleet, an Element company, where he creates a wide range of marketing materials spanning blogs, videos, brochures, and thought leadership content. He brings a unique background that bridges hi-tech and television, combining creative storytelling with deep technological understanding. Ohad is based in Israel and is fluent in Hebrew, English, and Italian.
+[Janessa Goldberg | Autofleet](https://autofleet.io/author/janessa-goldberg): Janessa brings 15+ years of experience leading business operations and customer success in global B2B SaaS organizations. Before joining Autofleet, she held senior operations and Chief of Staff roles at Gravyty, where she led post-merger integrations, scaled global teams, and drove CRM transformation. Earlier in her career, she built and led sales operations at SimilarWeb and held consulting roles at Deloitte Digital's Salesforce practice. Janessa holds a BA in Spanish and Business Studies from Butler University.
+[Tom Ram | Autofleet](https://autofleet.io/author/tom-ram): Tom Ram is an Enterprise Sales Engineer at Autofleet, an Element company, where he engineers customized fleet solutions to improve operational efficiency and scalability for large clients. He brings a strong track record in enterprise SaaS sales, including multiple top-performer awards at Verbit.ai. Tom is based in Boston and holds a BA in Economics and Big Data from the College of Management Academic Studies.
+[Itai Cohen | Autofleet](https://autofleet.io/author/itai-cohen): Itai is an accomplished product manager and leads product development and implementations in Autofleet. Itai is in charge of the vision, strategy, and roadmap of Autofleet's platform and of ensuring alignment with our overall business objectives. Previously, Itai held senior product management positions in Mavens and drove strategies for Fortune 500 companies as a consultant. Itai holds an LLB from the Hebrew University of Jerusalem.

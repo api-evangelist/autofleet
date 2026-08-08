@@ -1,0 +1,222 @@
+generated: '2026-08-06'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=autofleet
+description: >-
+  First-party packages published by Autofleet to public registries. IMPORTANT
+  CAVEAT: Autofleet publishes an @autofleet npm scope, but these are the
+  company's INTERNAL microservice and mobile-app infrastructure libraries
+  (logging, metrics, Kafka, Sequelize helpers, geo tooling, identity
+  middleware), not client SDKs for the public Autofleet Platform API. The one
+  package that does wrap the Autofleet API — @autofleet/api-http-client — is
+  described by its own README as intended for Autofleet's own cloud functions
+  and reads its refresh token from Google Secret Manager. No customer-facing,
+  documented SDK for the Autofleet Platform API was found on npm, PyPI, Maven
+  Central, NuGet, pkg.go.dev, RubyGems, Packagist or crates.io. For that reason
+  this repo deliberately does NOT wire a `type: SDKs` pointer in apis.yml — the
+  packages exist, a published client SDK does not.
+registries_checked:
+  - registry: npm
+    url: https://registry.npmjs.org/-/v1/search?text=autofleet
+    status: 200
+    result: 20+ packages under the @autofleet scope
+  - registry: pypi
+    url: https://pypi.org/pypi/autofleet/json
+    status: 404
+    result: none
+  - registry: packagist
+    url: https://packagist.org/search/?q=autofleet
+    status: not-found
+    result: none
+  - registry: rubygems
+    result: none
+  - registry: crates.io
+    result: none
+  - registry: nuget
+    result: none
+  - registry: maven-central
+    result: none
+  - registry: pkg.go.dev
+    result: none
+packages:
+  - language: javascript
+    registry: npm
+    name: "@autofleet/api-http-client"
+    url: https://www.npmjs.com/package/@autofleet/api-http-client
+    version: 0.3.0
+    license: ISC
+    install: npm install @autofleet/api-http-client
+    official: true
+    kind: api-client
+    audience: first-party-internal
+    note: >-
+      "HTTP client for the Autofleet API, intended for use primarily from cloud
+      functions." Wraps @autofleet/rapido-http-client and handles authentication
+      transparently — the refresh token is read from Google Secret Manager and
+      exchanged for an access token. This is the only public evidence of the
+      Autofleet Platform API's authentication model, since docs.autofleet.io is
+      password-protected.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/cli"
+    url: https://www.npmjs.com/package/@autofleet/cli
+    version: 2.39.0
+    license: ISC
+    install: npm install -g @autofleet/cli
+    official: true
+    kind: internal-devops-cli
+    audience: first-party-internal
+    note: >-
+      Publicly installable but NOT an API CLI. Its documented commands operate
+      on Autofleet's own infrastructure — switchCluster (Kubernetes),
+      exposeService (GCP LoadBalancer), forwardDb, forwardService, getIps,
+      enableSimulator, rabbitCreds, mirrord, dockerInit, openRedis — plus git
+      helpers. No `cli/` artifact or `type: CLI` pointer is emitted for it,
+      because it is not a customer-facing CLI for the Autofleet API.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/rapido-http-client"
+    url: https://www.npmjs.com/package/@autofleet/rapido-http-client
+    official: true
+    kind: infrastructure
+    note: Undici-based HTTP client with logging, retries and global configuration.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/compass"
+    url: https://www.npmjs.com/package/@autofleet/compass
+    version: 2.0.11
+    license: ISC
+    source: https://github.com/Autofleet/compass-js
+    official: true
+    kind: library
+    note: Geo tooling built on Turf.js and Google S2.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/zehut"
+    url: https://www.npmjs.com/package/@autofleet/zehut
+    version: 4.15.1
+    license: ISC
+    source: https://github.com/Autofleet/autorepo
+    official: true
+    kind: infrastructure
+    note: Authorization and authentication middleware for Autofleet services.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/events"
+    url: https://www.npmjs.com/package/@autofleet/events
+    version: 5.3.31
+    license: Proprietary
+    source: https://github.com/Autofleet/autorepo
+    official: true
+    kind: infrastructure
+    note: >-
+      Internal event library. Evidence that Autofleet runs an event-driven core
+      (see also @autofleet/kafka), but no public event catalog or AsyncAPI is
+      published.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/kafka"
+    url: https://www.npmjs.com/package/@autofleet/kafka
+    official: true
+    kind: infrastructure
+    note: Internal wrapper for Apache Kafka.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/metrics"
+    url: https://www.npmjs.com/package/@autofleet/metrics
+    official: true
+    kind: infrastructure
+  - language: javascript
+    registry: npm
+    name: "@autofleet/logger"
+    url: https://www.npmjs.com/package/@autofleet/logger
+    official: true
+    kind: infrastructure
+  - language: javascript
+    registry: npm
+    name: "@autofleet/network"
+    url: https://www.npmjs.com/package/@autofleet/network
+    official: true
+    kind: infrastructure
+  - language: javascript
+    registry: npm
+    name: "@autofleet/node-common"
+    url: https://www.npmjs.com/package/@autofleet/node-common
+    official: true
+    kind: infrastructure
+  - language: javascript
+    registry: npm
+    name: "@autofleet/sequelize-utils"
+    url: https://www.npmjs.com/package/@autofleet/sequelize-utils
+    official: true
+    kind: infrastructure
+  - language: javascript
+    registry: npm
+    name: "@autofleet/sheilta"
+    url: https://www.npmjs.com/package/@autofleet/sheilta
+    official: true
+    kind: infrastructure
+    note: Validation/parsing middleware for data-query endpoints.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/outbreak"
+    url: https://www.npmjs.com/package/@autofleet/outbreak
+    official: true
+    kind: infrastructure
+    note: Distributed tracing.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/theme"
+    url: https://www.npmjs.com/package/@autofleet/theme
+    official: true
+    kind: ui
+  - language: javascript
+    registry: npm
+    name: "@autofleet/lint"
+    url: https://www.npmjs.com/package/@autofleet/lint
+    official: true
+    kind: tooling
+    note: Shared Oxlint/Oxfmt configuration.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/fastify-boilerplate"
+    url: https://www.npmjs.com/package/@autofleet/fastify-boilerplate
+    official: true
+    kind: tooling
+  - language: javascript
+    registry: npm
+    name: "@autofleet/react-native-wallet"
+    url: https://www.npmjs.com/package/@autofleet/react-native-wallet
+    official: true
+    kind: mobile
+    note: React Native module for adding payment cards to Apple Wallet and Google Wallet.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/element-pay"
+    url: https://www.npmjs.com/package/@autofleet/element-pay
+    official: true
+    kind: client
+    note: >-
+      GraphQL client for the Element Pay third-party provider — evidence of the
+      Element Fleet Management relationship after the 2024 acquisition. Not a
+      client for the Autofleet API.
+  - language: javascript
+    registry: npm
+    name: "@autofleet/sadot"
+    url: https://www.npmjs.com/package/@autofleet/sadot
+    official: true
+    kind: infrastructure
+open_source:
+  - name: locomotion
+    url: https://github.com/Autofleet/locomotion
+    stars: 51
+    license_note: Autofleet's flagship public repo
+    description: >-
+      Open-source rider/passenger mobile app (React Native + Node.js) that can
+      be customized to support any ride-hailing service. Contains no OpenAPI,
+      AsyncAPI, Postman collection or .proto file (830 files checked).
+  - name: OSRM-Operator
+    url: https://github.com/Autofleet/OSRM-Operator
+    description: Kubernetes operator for provisioning and maintaining OSRM routing clusters.
+  - name: valhalla-operator
+    url: https://github.com/Autofleet/valhalla-operator
+    description: Kubernetes operator for the Valhalla routing engine.

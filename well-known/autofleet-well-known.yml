@@ -1,0 +1,97 @@
+generated: '2026-08-06'
+method: probed
+description: >-
+  Results of probing the /.well-known/ discovery surface on every Autofleet host
+  — the API gateway (api.autofleet.io), the marketing/content host
+  (autofleet.io) and the developer documentation host (docs.autofleet.io).
+  Status is the HTTP code observed at fetch time. NOTHING was found: Autofleet
+  publishes no security.txt, no OpenID/OAuth discovery document, no api-catalog
+  and no agent card on any host. Because there was no hit, apis.yml deliberately
+  carries NO `type: WellKnown` / `APICatalog` pointer — this file is the
+  negative-result record, not a catalog.
+
+  The one real machine-readable discovery document Autofleet does publish is
+  /llms.txt on the marketing host (saved to llms/autofleet-llms.txt), plus a
+  robots.txt carrying Content-Signal AI-usage directives (saved verbatim to
+  well-known/autofleet-robots.txt). Neither lives under /.well-known/.
+hosts:
+  - host: https://api.autofleet.io
+    note: >-
+      Live Express/helmet API gateway; the root returns
+      {"name":"api-gateway","version":"1.0.0"}. Returns honest 404s (Cannot GET
+      <path>) rather than a soft-200 catch-all, so these misses are real.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/oauth-protected-resource
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+  - host: https://autofleet.io
+    note: >-
+      Webflow-hosted marketing site. Every /.well-known/* path returns 404 with
+      the body "Invalid .well-known request".
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+  - host: https://docs.autofleet.io
+    note: >-
+      ReadMe-hosted developer hub, password-protected. Every path 302s to
+      /password?redirect=<path>, including the /.well-known/* probes, so nothing
+      here could be read.
+    documents:
+      - path: /.well-known/agent-card.json
+        status: 302
+        redirect: /password?redirect=/.well-known/agent-card.json
+non_well_known_documents:
+  - path: /llms.txt
+    host: https://autofleet.io
+    status: 200
+    content_type: text/plain
+    bytes: 55194
+    file: ../llms/autofleet-llms.txt
+    note: >-
+      Real, provider-published llms.txt. Site-map-shaped: an index of every
+      solution, industry, blog, resource, eguide, press-release and author page,
+      with a header carrying the contact address (hey@autofleet.io) and the
+      certifications claim (ISO 27001, GDPR Compliant, HIPAA Compliant). It
+      does NOT reference the API, the docs host, or any specification.
+  - path: /robots.txt
+    host: https://autofleet.io
+    status: 200
+    content_type: text/plain
+    file: autofleet-robots.txt
+    note: >-
+      Carries Cloudflare-style Content-Signal AI-usage directives —
+      "ai-train=yes, search=yes, ai-input=yes" — declared for the wildcard agent
+      and again explicitly for ChatGPT-User/OAI-SearchBot/GPTBot, PerplexityBot/
+      Perplexity-User and ClaudeBot. This is a genuine, machine-readable consent
+      signal, which is why apis.yml carries a `type: ContentSignal` pointer at
+      it. Also lists /llms.txt as a Sitemap entry.
+  - path: /robots.txt
+    host: https://docs.autofleet.io
+    status: 200
+    note: >-
+      Served unauthenticated even though the rest of the hub is password-walled;
+      the ReadMe default (Disallow /*/api-next, /cdn-cgi/, /edit/, /suggested-
+      edits). Reveals nothing about the API.

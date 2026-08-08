@@ -1,0 +1,45 @@
+generated: '2026-08-06'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: autofleet.io
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct 14 23:44:35 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+- host: api.autofleet.io
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Nov  1 05:06:05 2026 GMT
+  hsts: true
+  hsts_max_age: 0
+domains:
+- domain: autofleet.io
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
+notes:
+- >-
+  api.autofleet.io sends a Strict-Transport-Security header with max-age=0,
+  which explicitly DISABLES HSTS for the API host rather than enforcing it. The
+  header is present but inert. The marketing host autofleet.io sets a real
+  max-age=31536000. Recorded as observed.
+- >-
+  api.autofleet.io otherwise ships a strong default header set (helmet-style):
+  Content-Security-Policy default-src 'self', Cross-Origin-Embedder-Policy
+  require-corp, Cross-Origin-Opener-Policy same-origin,
+  Cross-Origin-Resource-Policy same-origin, Referrer-Policy no-referrer,
+  X-Content-Type-Options nosniff, X-Frame-Options SAMEORIGIN. Both hosts sit
+  behind Cloudflare.
+- >-
+  No CAA records and no DNSSEC on autofleet.io. SPF and DMARC are both present;
+  the DMARC policy is p=quarantine.
+- >-
+  No vulnerability-disclosure program and no trust center were found:
+  /.well-known/security.txt is 404 on every host, and trust.autofleet.io,
+  security.autofleet.io and status.autofleet.io do not resolve. probe-security-
+  programs.py reported vdp=none trust=none, so no VulnerabilityDisclosure,
+  Security or TrustCenter artifact or pointer is emitted.

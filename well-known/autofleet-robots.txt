@@ -1,0 +1,41 @@
+User-agent: *
+Allow: /
+Disallow: /blog/rss.xml?*
+Disallow: *_page=*
+
+User-agent: *
+Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+Disallow: /?/
+Disallow: /*?s=/
+Disallow: /search/
+Disallow: /*?printpdf=/
+Disallow: /*/embed/
+Disallow: /*/page/
+Disallow: /utm=/
+
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: GPTBot
+Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: ClaudeBot
+Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+Sitemap: https://autofleet.io/llms.txt
+
+Sitemap: https://autofleet.io/sitemap.xml

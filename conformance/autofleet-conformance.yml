@@ -1,0 +1,128 @@
+generated: '2026-08-06'
+method: searched
+source: https://autofleet.io/llms.txt
+description: >-
+  Cross-cutting standards and compliance posture for Autofleet, assembled from
+  what the company itself publishes. The evidence base is deliberately thin and
+  the reason is recorded here: Autofleet's developer documentation
+  (docs.autofleet.io) is an entirely password-protected ReadMe hub, and no
+  OpenAPI, AsyncAPI, GraphQL SDL or Postman collection is published anywhere, so
+  none of the usual protocol-level conformance can be derived from a contract.
+  Every "conforms: false" below therefore means "not publicly verifiable", not
+  "the platform does not do this".
+compliance:
+  - id: iso-27001
+    conforms: true
+    evidence: >-
+      Declared by Autofleet in its own machine-readable llms.txt header:
+      "**Certifications:** ISO 27001, GDPR Compliant, HIPAA Compliant"
+      (https://autofleet.io/llms.txt, HTTP 200, fetched 2026-08-06).
+    caveat: >-
+      Self-declared in llms.txt only. No trust center, certificate page, audit
+      report, or Security/Compliance page exists on autofleet.io; trust.
+      autofleet.io does not resolve. The claim is first-party and unverified by
+      any linked artifact.
+  - id: gdpr
+    conforms: true
+    evidence: >-
+      Declared as "GDPR Compliant" in https://autofleet.io/llms.txt. The privacy
+      policy (https://autofleet.io/privacy-policy, HTTP 200) sets out lawful
+      bases for processing, data-subject rights and retention, consistent with a
+      GDPR posture.
+  - id: hipaa
+    conforms: true
+    evidence: >-
+      Declared as "HIPAA Compliant" in https://autofleet.io/llms.txt. Relevant
+      to Autofleet's NEMT (non-emergency medical transport) and school-transport
+      segments.
+    caveat: No BAA, attestation, or HIPAA-specific page is published.
+  - id: soc2
+    conforms: false
+    evidence: >-
+      Not claimed anywhere on autofleet.io, in llms.txt, or in the terms and
+      conditions. Absence of a claim, not a finding against the company.
+standards:
+  - id: rest
+    conforms: true
+    evidence: >-
+      The company markets "Autofleet's public API and webhooks"
+      (https://autofleet.io/integration) and the gateway at
+      https://api.autofleet.io answers HTTP 200 with
+      {"name":"api-gateway","version":"1.0.0"} over JSON. REST is the stated
+      style; the operation surface is not public.
+  - id: openapi
+    conforms: false
+    evidence: >-
+      No OpenAPI or Swagger document found. Probed /openapi.json, /openapi.yaml,
+      /swagger.json, /swagger, /swagger-ui.html, /api-docs, /docs, /redoc,
+      /v1/openapi.json, /v1/swagger.json and /api/openapi.json against
+      https://api.autofleet.io — all HTTP 404 with an Express "Cannot GET" body.
+      The same paths on https://docs.autofleet.io all 302 to
+      /password?redirect=<path>.
+  - id: graphql
+    conforms: false
+    evidence: >-
+      https://api.autofleet.io/graphql returns HTTP 404. Autofleet publishes an
+      @autofleet/element-pay GraphQL client on npm, but that is a client for a
+      third-party Element Pay provider, not an Autofleet GraphQL surface.
+  - id: asyncapi
+    conforms: false
+    evidence: >-
+      No AsyncAPI document published. The company runs an event-driven core
+      (@autofleet/events and @autofleet/kafka on npm) and markets webhooks, but
+      no event catalog, webhook reference or AsyncAPI spec is publicly readable.
+  - id: mcp
+    conforms: false
+    evidence: >-
+      No hosted or published Model Context Protocol server found for Autofleet
+      or for its Nova generative-AI product.
+  - id: a2a
+    conforms: false
+    evidence: >-
+      No A2A Agent Card. /.well-known/agent-card.json and /.well-known/agent.json
+      return 404 on api.autofleet.io and autofleet.io, and 302-to-password on
+      docs.autofleet.io.
+  - id: oauth2
+    conforms: unknown
+    evidence: >-
+      Indirect first-party evidence only. The README of Autofleet's own npm
+      package @autofleet/api-http-client states it "handles authentication
+      transparently: the refresh token is read from Google Secret Manager,
+      exchanged for an access token" — a refresh-token/access-token exchange
+      consistent with OAuth 2.0 bearer semantics. No authorization-server
+      metadata (/.well-known/oauth-authorization-server: 404) and no public auth
+      reference exist to confirm the grant types or scopes.
+  - id: oidc
+    conforms: false
+    evidence: >-
+      No /.well-known/openid-configuration on any host (404 on
+      api.autofleet.io and autofleet.io).
+  - id: rfc9457
+    conforms: unknown
+    evidence: No public error reference or spec; the error envelope is unreadable.
+  - id: idempotency
+    conforms: unknown
+    evidence: No public convention reference; cannot be verified.
+  - id: pagination
+    conforms: unknown
+    evidence: No public convention reference; cannot be verified.
+  - id: rfc9116
+    conforms: false
+    evidence: >-
+      No /.well-known/security.txt on any host (404 on api.autofleet.io and
+      autofleet.io).
+  - id: llms-txt
+    conforms: true
+    evidence: >-
+      https://autofleet.io/llms.txt returns HTTP 200 with a well-formed llms.txt
+      (55,194 bytes) indexing the site's solution, industry, blog, resource and
+      press pages. Content-oriented rather than API-oriented — it names no API,
+      endpoint or specification.
+  - id: content-signal
+    conforms: true
+    evidence: >-
+      https://autofleet.io/robots.txt publishes Content-Signal directives
+      ("ai-train=yes, search=yes, ai-input=yes") for the wildcard agent and
+      explicitly for GPTBot/ChatGPT-User/OAI-SearchBot, PerplexityBot/
+      Perplexity-User and ClaudeBot — an affirmative, machine-readable AI-usage
+      consent signal.
