@@ -48,6 +48,11 @@ apis:
   - Fleet Management
   - Mobility
   - Route Optimization
+  - Webhook
+  tags_raw:
+  - Fleet Management
+  - Mobility
+  - Route Optimization
   - Webhooks
 maintainers:
 - FN: Kin Lane
