@@ -13,6 +13,17 @@ description: 'Autofleet is a fleet and mobility optimization platform founded in
   questions. The API gateway is live at api.autofleet.io, but the developer reference
   at docs.autofleet.io is a password-protected ReadMe hub, so no machine-readable
   contract is publicly retrievable.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/62efd8600e99ef30950239a5/630cd578c9f8724a3a154de4_Social_Share_Image%20(1).png
 url: https://raw.githubusercontent.com/api-evangelist/autofleet/refs/heads/main/apis.yml
 x-type: company
