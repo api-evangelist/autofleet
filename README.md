@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Autofleet is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.hiive.com/securities/autofleet-stock
+Autofleet is a fleet and mobility optimization platform founded in 2018 in Tel Aviv by Kobi Eisenberg and Dor Shay, and since 2024 an independently operated, wholly owned subsidiary of Element Fleet Management Corp. (TSX: EFN). Its AI-driven software plans, dispatches, routes and simulates vehicle-based operations across postal and parcel delivery, last-mile logistics, rental and car sharing, corporate motor pools, microtransit, NEMT and school transport, taxi and rideshare, field service, and autonomous mobility, in more than 20 countries. The platform is sold as an integration hub — Autofleet markets a public API and webhooks for connecting telematics, GPS, keyless access, maintenance, booking, dispatch, CRM and ERP systems — and adds Nova, a fleet-specific generative AI layer for natural-language operational questions. The API gateway is live at api.autofleet.io, but the developer reference at docs.autofleet.io is a password-protected ReadMe hub, so no machine-readable contract is publicly retrievable.
+
+**Areas:** Fleet Management · Mobility · Transportation · Logistics · Route Optimization · Dispatch · Last Mile Delivery · Car Sharing · Telematics · Artificial Intelligence
+
+## Autofleet on APIs.io
+
+Everything profiled for Autofleet is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/autofleet/](https://apis.io/providers/autofleet/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Autofleet Platform API](https://apis.io/apis/autofleet/platform/) — Autofleet's public REST API and webhook surface for its fleet and mobility optimization platform — vehicles, drivers, tasks, rides, bookings, routes and…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Autofleet Domain Security](https://apis.io/security/autofleet/autofleet-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://autofleet.io)
+- [Support](https://autofleet.io/contact-us)
+- [Blog](https://autofleet.io/resources)
+- [Terms of service](https://autofleet.io/terms-and-conditions)
+- [Privacy policy](https://autofleet.io/privacy-policy)
+- [GitHub](https://github.com/Autofleet)
+
+## API Evangelist rating
+
+**Kin Score 18.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 28.9 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | yes |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/autofleet/](https://apis.io/providers/autofleet/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Autofleet: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/autofleet/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
